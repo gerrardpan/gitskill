@@ -7,3 +7,5 @@ master change
 change b1
 >>>>>>> b1
 merge conflict
+change has made
+iiiiiiiiiiiiii
